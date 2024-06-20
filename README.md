@@ -44,7 +44,7 @@ To update the firmware using a DMX cable connection, follow the instructions bel
    >* If the connected product is incorrect or has the incorrect sofware, the upgrade will fail, and the display will go back to the main interface. Repeat **steps 1-5** using a STRIKE Array 1 Driver with valid software.
 6. If the connected product is valid, the update will start. DO NOT turn off power or disconnect the DMX cable during the process. The update can take several minutes to complete.
 7. When the update is complete, the product will automatically reboot.
-8. Go to the **Information** level of the prodduct's main menu and confirm the software update.
+8. Go to the **Information** level of the product's main menu and confirm the software update.
 
 ### Special Notes
 * When updating software using the **Fixture to Fixture** option, make sure no other DMX or Ethernet signals are connected to the products.
