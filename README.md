@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.0.2 - STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/07dd3e167428e896087d4f30c701b0207695a16a/Firmware/V1.0.2_06-20-24.zip_
+[V1.0.2 - STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/07dd3e167428e896087d4f30c701b0207695a16a/Firmware/V1.0.2_06-20-24.zip)
 - Updated pod addressing method (see User Manual for reference)
 
 [V1.0.1 - STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/4187327b43013fab01dde00ee457ee9e172ebf9a/Firmware/V1.0.1_05-14-24.zip)
