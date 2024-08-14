@@ -2,6 +2,11 @@
 
 ## Software Versions
 
+[V1.0.3 - STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/b21fcf71b7b37c3b611cfa989a9bf12fc4ec6c2a/Firmware/V1.0.3_08-14-24.zip)
+- Added new RDM PIDs
+- Fixed bug that causes pods to not show the correct indicator LEDs when moving to another port
+- Added ability for pods to remember their addresses when the cables are moved (on the same port)
+
 [V1.0.2 - STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/07dd3e167428e896087d4f30c701b0207695a16a/Firmware/V1.0.2_06-20-24.zip)
 - Updated pod addressing method (see User Manual for reference)
 
