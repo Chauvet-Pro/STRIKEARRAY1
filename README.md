@@ -2,6 +2,11 @@
 
 ## Software Versions
 
+[V1.0.4 STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/main/Firmware/V1.0.4.zip)
+- Added the dimmer override functionality in the control channel (temporarily overwrites the selected dimmer mode with dimmer mode OFF, as long as this value is active)
+- Added 4 pod / 4 CH dimmer mode
+- Added 8 pod / 8 CH dimmer mode
+
 [V1.0.3 - STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/b21fcf71b7b37c3b611cfa989a9bf12fc4ec6c2a/Firmware/V1.0.3_08-14-24.zip)
 - Added new RDM PIDs
 - Fixed bug that causes pods to not show the correct indicator LEDs when moving to another port
