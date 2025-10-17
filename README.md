@@ -2,6 +2,15 @@
 
 ## Software Versions
 
+[V1.0.5 STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/ad776ba1f1053ac22b163a862f3bd7808067e0e5/V1.0.5.zip)
+- Increased the ArtNet universe range to: 0 - 32767, and the sACN universe range to: 1 - 32000.
+- Removed the Starting Address from the Ethernet Settings.
+- Fixed the issue that when connecting to sACN, erroneous message appears: fixture is Leaving group, re-subscribe.
+- Changed the message to “max of 8 pods per drive exceeded” when more than 8 pods are detected.
+- Added message of "max of 7 pods per port exceeded " when one port detects over 7 pods.
+- Fixed DMX addressing bug, UID, and hours reset caused by network upgrade failure.
+- In the router, client list and fixture name will be displayed instead of fixture MAC Address.
+   
 [V1.0.4 STRIKE Array 1](https://github.com/Chauvet-Pro/STRIKEARRAY1/blob/main/Firmware/V1.0.4.zip)
 - Added the dimmer override functionality in the control channel (temporarily overwrites the selected dimmer mode with dimmer mode OFF, as long as this value is active)
 - Added 4 pod / 4 CH dimmer mode
